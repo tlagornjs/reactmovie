@@ -1,0 +1,22 @@
+{
+  "name": "REACT MOVIE LIST with sorting searching pagination",
+  "version": "1.0.0",
+  "description": "NOMAD MOVIE LIST WEB Service - following and attach sorting method & pagination",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-scripts": "2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
+  "homepage": "http://tlagornjs.github.io/reactmovie"
+}

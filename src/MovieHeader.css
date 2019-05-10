@@ -1,0 +1,20 @@
+.MovieHeader {
+  background-color: white;
+  width: 90%;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  padding: 20px;
+  -webkit-box-shadow: 0 8px 38px rgba(133, 133, 133, 0.3),
+    0 5px 12px rgba(133, 133, 133, 0.22);
+  box-shadow: 0 8px 38px rgba(133, 133, 133, 0.3),
+    0 5px 12px rgba(133, 133, 133, 0.22);
+}
