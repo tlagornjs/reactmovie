@@ -1,6 +1,6 @@
-This project is from nomad lecture - react movie list
+This project is from nomad lecture - react movie list [ github.com/nomadcoders/movie_app, nomadcoders.github.io/movie_app/ ]
 
-Some functions are added.
+We added Some functions.
 
 1. Searching
 
